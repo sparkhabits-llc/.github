@@ -1,8 +1,9 @@
 <img src="https://cdn.sparkhabits.com/og-dark.webp" style="width:100%;" alt="OG image">
 
-# SparkHabits - Habit Change with Voice AI
+# SparkHabits – Transform Habits with Voice AI
 
-SparkHabits LLC is a Habit Change Platform which powers Voice AI enabled features.
+SparkHabits LLC is a next-generation habit change platform powered by Voice AI.
+We combine behavioral science with emotionally intelligent voice interactions to help users build life-changing habits—one conversation at a time.
 
 We are based out of 8 The Grn Ste A Dover, DE 19901-3618, Delaware, United States.
 
