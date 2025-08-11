@@ -9,10 +9,10 @@ We are based out of 8 The Grn Ste A Dover, DE 19901-3618, Delaware, United State
 
 ## App & Website Links
 
-Android: https://play.google.com/store/apps/details?id=com.sparkhabits
+Android App: https://play.google.com/store/apps/details?id=com.sparkhabits
 
-iOS: https://apps.apple.com/us/app/sparkhabits/id1623513049
+iOS App: https://apps.apple.com/us/app/sparkhabits/id1623513049
 
-Landing Page: https://sparkhabits.com/
+Landing Page: https://www.sparkhabits.com/
 
-Coach Dashboard: https://sparkhabits.coach/
+Coach Dashboard: https://www.sparkhabits.coach/
