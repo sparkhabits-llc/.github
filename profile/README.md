@@ -1,4 +1,6 @@
-<img src="https://cdn.sparkhabits.com/og-dark.webp" style="width:100%;" alt="OG image">
+<picture>
+<img alt="github-banner" src="./sparkhabits-profile-banner.png" />
+</picture>
 
 # SparkHabits – Transform Habits with Voice AI
 
@@ -7,12 +9,17 @@ We combine behavioral science with emotionally intelligent voice interactions to
 
 We are based out of 8 The Grn Ste A Dover, DE 19901-3618, Delaware, United States.
 
-## App & Website Links
+## Website Links
+
+Website: https://www.sparkhabits.com/
+
+### App Links
 
 Android App: https://play.google.com/store/apps/details?id=com.sparkhabits
 
 iOS App: https://apps.apple.com/us/app/sparkhabits/id1623513049
 
-Landing Page: https://www.sparkhabits.com/
+App Clip: https://appclip.apple.com/id?p=com.sparkhabits.appclip
 
-Coach Dashboard: https://www.sparkhabits.coach/
+
+
