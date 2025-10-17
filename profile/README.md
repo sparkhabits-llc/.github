@@ -16,5 +16,6 @@ iOS App: https://apps.apple.com/us/app/sparkhabits/id1623513049
 
 iOS App Clip: https://www.sparkhabits.com/app-clip-download
 
-
-
+<picture>
+<img alt="github-banner" width="150" height="150" src="./apple-app-clip-qr-code.webp" />
+</picture>
