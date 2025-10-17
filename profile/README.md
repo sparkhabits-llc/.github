@@ -14,7 +14,7 @@ Android App: https://play.google.com/store/apps/details?id=com.sparkhabits
 
 iOS App: https://apps.apple.com/us/app/sparkhabits/id1623513049
 
-App Clip: https://appclip.apple.com/id?p=com.sparkhabits.appclip
+iOS App Clip: https://www.sparkhabits.com/app-clip-download
 
 
 
