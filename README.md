@@ -14,9 +14,7 @@ Android App: https://play.google.com/store/apps/details?id=com.sparkhabits
 
 iOS App: https://apps.apple.com/us/app/sparkhabits/id1623513049
 
-App Clip: https://appclip.apple.com/id?p=com.sparkhabits.appclip
-
-## Scan to use SparkHabits App in iOS via App Clip version within 5 seconds!
+iOS App Clip: https://appclip.apple.com/id?p=com.sparkhabits.appclip
 
 <picture>
 <img alt="github-banner" width="150" height="150" src="./profile/apple-app-clip-qr-code.webp" />
